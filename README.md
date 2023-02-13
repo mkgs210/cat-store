@@ -28,7 +28,7 @@
   
 ## Диаграмма
 
-<img src="https://user-images.githubusercontent.com/78417431/218315340-23f0c228-484c-4270-97a4-b5c2193a9781.png" width="600">
+<img src="https://user-images.githubusercontent.com/78417431/218578308-84433a4f-d217-4d90-b037-6d5212d4cf5b.png" width="600">
 
 ## Интерфейс
 Окно авторизации:
